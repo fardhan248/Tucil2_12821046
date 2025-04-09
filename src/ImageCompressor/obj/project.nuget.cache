@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DrA8R8KGcdM=",
+  "success": true,
+  "projectFilePath": "D:\\STIMA\\tucil_2\\repo\\ImageCompressor\\ImageCompressor\\ImageCompressor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fardhan\\.nuget\\packages\\sixlabors.imagesharp\\3.1.7\\sixlabors.imagesharp.3.1.7.nupkg.sha512",
+    "C:\\Users\\Fardhan\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.2\\microsoft.netcore.app.runtime.win-x64.9.0.2.nupkg.sha512",
+    "C:\\Users\\Fardhan\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.2\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.2.nupkg.sha512",
+    "C:\\Users\\Fardhan\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.2\\microsoft.aspnetcore.app.runtime.win-x64.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

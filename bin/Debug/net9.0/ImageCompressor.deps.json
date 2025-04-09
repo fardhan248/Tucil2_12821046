@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ImageCompressor/1.0.0": {
+        "dependencies": {
+          "SixLabors.ImageSharp": "3.1.7"
+        },
+        "runtime": {
+          "ImageCompressor.dll": {}
+        }
+      },
+      "SixLabors.ImageSharp/3.1.7": {
+        "runtime": {
+          "lib/net6.0/SixLabors.ImageSharp.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.1.7.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ImageCompressor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SixLabors.ImageSharp/3.1.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9fIOOAsyLFid6qKypM2Iy0Z3Q9yoanV8VoYAHtI2sYGMNKzhvRTjgFDHonIiVe+ANtxIxM6SuqUzj0r91nItpA==",
+      "path": "sixlabors.imagesharp/3.1.7",
+      "hashPath": "sixlabors.imagesharp.3.1.7.nupkg.sha512"
+    }
+  }
+}
