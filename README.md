@@ -55,11 +55,11 @@ Keterangan:
 - minimumBlock: Ukuran blok minimum (> 4)
 - outputPath: Path absolut file gambar hasil kompresi disimpan
 
-*Berikut merupakan metode eror yang dapat dipilih
-1: Variance ( > 0)
-2: Mean Absolute Deviation (MAD) ( > 0)
-3: Maximum Pixel Difference ( > 0)
-4: Entropy ( > 0)
+*Berikut merupakan metode eror yang dapat dipilih <br>
+1: Variance ( > 0) <br>
+2: Mean Absolute Deviation (MAD) ( > 0) <br>
+3: Maximum Pixel Difference ( > 0) <br>
+4: Entropy ( > 0) <br>
 5: Structural Similarity Index (SSIM) ( 0 < SSIM < 1 )
 
 # Author
